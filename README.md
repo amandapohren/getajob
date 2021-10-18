@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/amandapohren/getajob/blob/master/assets/images/logo.png?raw=true)
+![Logo of the project](https://github.com/amandapohren/getajob/blob/master/assets/images/logo%20atual.png?raw=true)
  
 ## Get@Job
  
